@@ -2,7 +2,7 @@
 
 Install
 
-`pip install git+ssh://git@github.com:lvsuno/Text-preprocessing.git`
+`pip install git+ssh://git@github.com/lvsuno/Text-preprocessing.git`
 
 Uinstall
 
