@@ -1,9 +1,9 @@
 from preprocess_lvsuno import utils 
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 
-from preprocess_kgptalkie import utils
+from preprocess_lvsuno import utils
 
 __version__ = '0.0.3'
 
