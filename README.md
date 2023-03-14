@@ -6,4 +6,4 @@ Install
 
 Uinstall
 
-`pip uninstall preprocess_lvsuno`ß
+`pip uninstall preprocess_lvsuno`
