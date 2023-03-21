@@ -126,9 +126,9 @@ def _cont_exp(x):
 	" ur ": " your ",
 	" n ": " and ",
 	"won't": "would not",
-	'dis': 'this',
-	'bak': 'back',
-	'brng': 'bring'}
+	'dis ': 'this ',
+	'bak ': 'back ',
+	'brng ': 'bring '}
 
 	if type(x) is str:
 		for key in contractions:

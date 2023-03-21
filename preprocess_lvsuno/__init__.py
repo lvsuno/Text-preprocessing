@@ -1,11 +1,11 @@
 from preprocess_lvsuno import utils 
 
-__version__ = '0.0.2'
+__version__ = '0.0.4'
 
 
 from preprocess_lvsuno import utils
 
-__version__ = '0.0.3'
+__version__ = '0.0.4'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
